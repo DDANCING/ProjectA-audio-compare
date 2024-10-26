@@ -1,9 +1,11 @@
 {
     "database": {
-        "host": "127.0.0.1",
-        "user": "root",
-        "password": "rootpass",
-        "database": "dejavu"
+        "host": "isabelle.db.elephantsql.com",
+        "user": "jngfozzr",
+        "password": "9LtMBayHNIJJ-iXrVlI1Ow3C3EgXElLd",
+        "database": "jngfozzr"
     },
-    "database_type": "mysql"
+    "database_type": "postgres",
+    "fingerprint_limit": 100000,
+    "debug": true
 }
