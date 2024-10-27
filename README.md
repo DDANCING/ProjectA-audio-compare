@@ -28,8 +28,8 @@ Essa API é parte fundamental do **ProjectA**, uma plataforma de aprendizado mus
 1. **Clone o repositório**:
 
    ```bash
-   git clone <url_do_repositorio>
-   cd <nome_do_diretorio_do_projeto>
+   git clone https://github.com/DDANCING/ProjectA-audio-compare
+   cd ProjectA-audio-compare
 
 ## Instalação
 
@@ -134,5 +134,3 @@ Para contribuir com o projeto:
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-A Audio Compare API é uma ferramenta essencial.
