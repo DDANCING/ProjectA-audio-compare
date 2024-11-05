@@ -4,3 +4,13 @@ __pycache__
 .env
 venv
 .venv
+dejavu
+mp3
+plots
+myenv
+dejavu.cnf.SAMPLE
+PyDejavu.egg-info
+INSTALLATION.md
+jngfozzr
+jngfozzr
+example_docker_postgres.py

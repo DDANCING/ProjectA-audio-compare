@@ -1,21 +1,15 @@
-# Web Frameworks e Servidores
-Flask>=2.0.0
-fastapi>=0.100.0
-uvicorn>=0.22.0
 
-# Processamento de Áudio
-pydub>=0.25.1
-PyAudio>=0.2.13
+Flask
+fastapi[all]
+uvicorn
 
-# Bibliotecas Científicas
-numpy>=1.24.0
-scipy>=1.10.0
-matplotlib>=3.7.0
 
-# Bancos de Dados
-mysql-connector-python>=8.0.33
-psycopg2-binary>=2.9.6
+pydub
 
-# Utilitários
-requests>=2.31.0
-dejavu>=0.1.3
+PyAudio
+numpy
+scipy
+matplotlib
+mysql-connector-python
+psycopg2-binary
+python-multipart

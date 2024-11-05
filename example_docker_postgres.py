@@ -7,10 +7,11 @@ from dejavu.logic.recognizer.microphone_recognizer import MicrophoneRecognizer
 # load config from a JSON file (or anything outputting a python dictionary)
 config = {
     "database": {
-        "host": "isabelle.db.elephantsql.com",
-        "user": "jngfozzr",
-        "password": "9LtMBayHNIJJ-iXrVlI1Ow3C3EgXElLd",
-        "database": "jngfozzr"
+        "host": "autorack.proxy.rlwy.net",
+        "user": "postgres",
+        "password": "ajZvevKqNTZcYVFFBKzPBXTNWshKsYny",
+        "database": "railway",
+        'port': '17720'
     },
     "database_type": "postgres",
 }

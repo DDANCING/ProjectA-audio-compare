@@ -2,12 +2,13 @@ import psycopg2
 
 try:
     connection = psycopg2.connect(
-    host="isabelle.db.elephantsql.com",
-    user="jngfozzr",
-    password="9LtMBayHNIJJ-iXrVlI1Ow3C3EgXElLd",
-    database="jngfozzr",
-    connect_timeout=100  # Aumente o timeout para 10 segundos
-)
+        host="autorack.proxy.rlwy.net",
+        user="postgres",
+        password="ajZvevKqNTZcYVFFBKzPBXTNWshKsYny",
+        dbname="railway",
+        port=17720, 
+        sslmode='require' 
+    )
     print("Conexão bem-sucedida!")
 except psycopg2.OperationalError as e:
     print("Erro de conexão:", e)
