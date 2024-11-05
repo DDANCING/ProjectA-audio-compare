@@ -11,5 +11,5 @@ numpy
 scipy
 matplotlib
 mysql-connector-python
-psycopg2-binary
+psycopg2
 python-multipart
